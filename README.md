@@ -1,3 +1,14 @@
+SENAC/RESILIA - Formação em Análise de Dados (FAD)
+
+Data de criação: 03/05/2023
+
+Data de Finalização: 04/05/2023
+
+Softwares e aplicações utilizadas:
+
+Visual Studio Code, Jupyter Notebook e Google Colab
+
+
 # Desafio Extra Módulo 4 – Funcionários da Companhia Milsa
 
 ## **CONTEXTO**
