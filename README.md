@@ -1,7 +1,7 @@
 # Desafio Extra Módulo 4 – Funcionários da Companhia Milsa
 
 ## **CONTEXTO**
-**A companhia Milsa possui dados de 36 funcionários da seção de orçamentos. Para cada funcionário temos os seguintes atributos: estado civil, instrução de educação, filhos,salário, idade (anos e meses), região**
+**A companhia Milsa possui dados de 36 funcionários da seção de orçamentos. Para cada funcionário temos os seguintes atributos: estado civil, instrução de educação, filhos,salário, idade (anos e meses) e região.**
 
 
 # **O QUE É PARA FAZER?**
